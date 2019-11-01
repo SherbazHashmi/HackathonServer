@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/future-0.17.1-py3.6.egg",
+    "Lib/site-packages/future.pth",
+    "Scripts/futurize-script.py",
+    "Scripts/futurize.exe",
+    "Scripts/pasteurize-script.py",
+    "Scripts/pasteurize.exe"
+  ],
+  "fn": "future-0.17.1-py36_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\future-0.17.1-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "future",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "win-64",
+  "timestamp": 1554529600205,
+  "url": "https://conda.anaconda.org/esri/win-64/future-0.17.1-py36_0.tar.bz2",
+  "version": "0.17.1",
+  "with_features_depends": {}
+}

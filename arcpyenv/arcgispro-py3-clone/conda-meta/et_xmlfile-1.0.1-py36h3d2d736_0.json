@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36h3d2d736_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/et_xmlfile-1.0.1-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/et_xmlfile/__init__.py",
+    "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/tests/__init__.py",
+    "Lib/site-packages/et_xmlfile/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/tests/__pycache__/common_imports.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/tests/__pycache__/helper.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/tests/__pycache__/test_incremental_xmlfile.cpython-36.pyc",
+    "Lib/site-packages/et_xmlfile/tests/common_imports.py",
+    "Lib/site-packages/et_xmlfile/tests/helper.py",
+    "Lib/site-packages/et_xmlfile/tests/test_incremental_xmlfile.py",
+    "Lib/site-packages/et_xmlfile/xmlfile.py"
+  ],
+  "fn": "et_xmlfile-1.0.1-py36h3d2d736_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\et_xmlfile-1.0.1-py36h3d2d736_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "et_xmlfile",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1506006640151,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/et_xmlfile-1.0.1-py36h3d2d736_0.tar.bz2",
+  "version": "1.0.1",
+  "with_features_depends": {}
+}

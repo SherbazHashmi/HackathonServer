@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "setuptools"
+  ],
+  "files": [
+    "Lib/site-packages/x86cpu-0.4-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/x86cpu-0.4-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/x86cpu-0.4-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/x86cpu-0.4-py3.6.egg-info/entry_points.txt",
+    "Lib/site-packages/x86cpu-0.4-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/x86cpu/__init__.py",
+    "Lib/site-packages/x86cpu/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/x86cpu/__pycache__/_version.cpython-36.pyc",
+    "Lib/site-packages/x86cpu/_version.py",
+    "Lib/site-packages/x86cpu/cpuinfo.cp36-win_amd64.pyd",
+    "Lib/site-packages/x86cpu/tests/__pycache__/info_getters.cpython-36.pyc",
+    "Lib/site-packages/x86cpu/tests/__pycache__/test_cpuinfo.cpython-36.pyc",
+    "Lib/site-packages/x86cpu/tests/info_getters.py",
+    "Lib/site-packages/x86cpu/tests/test_cpuinfo.py",
+    "Scripts/x86report-script.py",
+    "Scripts/x86report.exe"
+  ],
+  "fn": "x86cpu-0.4-py36_1.tar.bz2",
+  "license": "BSD 2-clause",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\x86cpu-0.4-py36_1",
+    "type": 1
+  },
+  "md5": null,
+  "name": "x86cpu",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "win-64",
+  "timestamp": 1545071521740,
+  "url": "https://conda.anaconda.org/esri/win-64/x86cpu-0.4-py36_1.tar.bz2",
+  "version": "0.4",
+  "with_features_depends": {}
+}

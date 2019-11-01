@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "pip",
+    "python >=3.6,<3.7.0a0",
+    "setuptools",
+    "x86cpu"
+  ],
+  "files": [
+    "Lib/site-packages/despatch-0.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/despatch-0.1.0.dist-info/LICENSE",
+    "Lib/site-packages/despatch-0.1.0.dist-info/METADATA",
+    "Lib/site-packages/despatch-0.1.0.dist-info/RECORD",
+    "Lib/site-packages/despatch-0.1.0.dist-info/WHEEL",
+    "Lib/site-packages/despatch-0.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/despatch/__init__.py",
+    "Lib/site-packages/despatch/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/despatch/__pycache__/despatch.cpython-36.pyc",
+    "Lib/site-packages/despatch/despatch.py",
+    "Lib/site-packages/x86cpu-0.4.dist-info/DESCRIPTION.rst",
+    "Lib/site-packages/x86cpu-0.4.dist-info/INSTALLER",
+    "Lib/site-packages/x86cpu-0.4.dist-info/METADATA",
+    "Lib/site-packages/x86cpu-0.4.dist-info/RECORD",
+    "Lib/site-packages/x86cpu-0.4.dist-info/WHEEL",
+    "Lib/site-packages/x86cpu-0.4.dist-info/entry_points.txt",
+    "Lib/site-packages/x86cpu-0.4.dist-info/metadata.json",
+    "Lib/site-packages/x86cpu-0.4.dist-info/top_level.txt"
+  ],
+  "fn": "despatch-0.1.0-py36_0.tar.bz2",
+  "license": "BSD 2-clause",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\despatch-0.1.0-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "despatch",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "win-64",
+  "timestamp": 1545113723456,
+  "url": "https://conda.anaconda.org/esri/win-64/despatch-0.1.0-py36_0.tar.bz2",
+  "version": "0.1.0",
+  "with_features_depends": {}
+}

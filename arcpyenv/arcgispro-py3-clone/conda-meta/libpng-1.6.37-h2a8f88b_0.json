@@ -1,0 +1,52 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h2a8f88b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "files": [
+    "Library/bin/libpng16.dll",
+    "Library/bin/png-fix-itxt.exe",
+    "Library/bin/pngfix.exe",
+    "Library/include/libpng16/png.h",
+    "Library/include/libpng16/pngconf.h",
+    "Library/include/libpng16/pnglibconf.h",
+    "Library/include/png.h",
+    "Library/include/pngconf.h",
+    "Library/include/pnglibconf.h",
+    "Library/lib/libpng.lib",
+    "Library/lib/libpng/libpng16-release.cmake",
+    "Library/lib/libpng/libpng16.cmake",
+    "Library/lib/libpng16.lib",
+    "Library/lib/libpng16_static.lib",
+    "Library/lib/libpng_static.lib",
+    "Library/lib/pkgconfig/libpng.pc",
+    "Library/lib/pkgconfig/libpng16.pc",
+    "Library/share/man/man3/libpng.3",
+    "Library/share/man/man3/libpngpf.3",
+    "Library/share/man/man5/png.5"
+  ],
+  "fn": "libpng-1.6.37-h2a8f88b_0.tar.bz2",
+  "license": "zlib/libpng",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\libpng-1.6.37-h2a8f88b_0",
+    "type": 1
+  },
+  "md5": "351328bf2bee7fd7ee7e9c158aeb1be2",
+  "name": "libpng",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 612334,
+  "subdir": "win-64",
+  "timestamp": 1556042067984,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libpng-1.6.37-h2a8f88b_0.tar.bz2",
+  "version": "1.6.37",
+  "with_features_depends": {}
+}

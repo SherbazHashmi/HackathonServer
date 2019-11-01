@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "fn": "sqlite-3.30.1-he774522_0.tar.bz2",
+  "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\sqlite-3.30.1-he774522_0",
+    "type": 1
+  },
+  "md5": "f2daf067eaf85b2e9fca963cfe4cbfdf",
+  "name": "sqlite",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 984828,
+  "subdir": "win-64",
+  "timestamp": 1572009877559,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.30.1-he774522_0.tar.bz2",
+  "version": "3.30.1",
+  "with_features_depends": {}
+}

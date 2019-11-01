@@ -1,0 +1,49 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/Send2Trash-1.5.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/Send2Trash-1.5.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/Send2Trash-1.5.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/Send2Trash-1.5.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/send2trash/__init__.py",
+    "Lib/site-packages/send2trash/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/compat.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/exceptions.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/plat_gio.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/plat_osx.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/plat_other.cpython-36.pyc",
+    "Lib/site-packages/send2trash/__pycache__/plat_win.cpython-36.pyc",
+    "Lib/site-packages/send2trash/compat.py",
+    "Lib/site-packages/send2trash/exceptions.py",
+    "Lib/site-packages/send2trash/plat_gio.py",
+    "Lib/site-packages/send2trash/plat_osx.py",
+    "Lib/site-packages/send2trash/plat_other.py",
+    "Lib/site-packages/send2trash/plat_win.py"
+  ],
+  "fn": "send2trash-1.5.0-py36_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\send2trash-1.5.0-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "send2trash",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1519146847631,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/send2trash-1.5.0-py36_0.tar.bz2",
+  "version": "1.5.0",
+  "with_features_depends": {}
+}

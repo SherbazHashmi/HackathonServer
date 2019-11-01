@@ -1,0 +1,11 @@
+traitlets
+jupyter_core
+pyzmq>=13
+python-dateutil>=2.1
+tornado>=4.1
+
+[test]
+ipykernel
+ipython
+mock
+pytest

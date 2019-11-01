@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/pytz-2019.2-py3.6.egg",
+    "Lib/site-packages/pytz.pth"
+  ],
+  "fn": "pytz-2019.2-py36_0.tar.bz2",
+  "has_prefix": false,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\pytz-2019.2-py36_0",
+    "type": 1
+  },
+  "md5": "d40717b444a420f4ae54b39170d45f36",
+  "name": "pytz",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "esri",
+  "size": 343812,
+  "subdir": "win-64",
+  "timestamp": 1566022652769,
+  "url": "https://conda.anaconda.org/esri/win-64/pytz-2019.2-py36_0.tar.bz2",
+  "version": "2019.2",
+  "with_features_depends": {}
+}

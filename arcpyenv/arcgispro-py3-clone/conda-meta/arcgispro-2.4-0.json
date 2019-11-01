@@ -1,0 +1,28 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [],
+  "files": [],
+  "fn": "arcgispro-2.4-0.tar.bz2",
+  "license": "Apache 2.0",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\arcgispro-2.4-0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "arcgispro",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "win-64",
+  "timestamp": 1551426418880,
+  "track_features": "arcgispro",
+  "url": "https://conda.anaconda.org/esri/win-64/arcgispro-2.4-0.tar.bz2",
+  "version": "2.4",
+  "with_features_depends": {}
+}

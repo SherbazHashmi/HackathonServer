@@ -1,0 +1,5 @@
+import os; d = r"C:\Program Files\ArcGIS\Pro\bin"; os.environ["PATH"] = r"{};{}".format(d, os.environ["PATH"])
+import sys; d = r"C:\Program Files\ArcGIS\Pro\bin"; sys.path.append(d)
+import sys; d = r"C:\Program Files\ArcGIS\Pro\Resources\ArcPy"; sys.path.append(d)
+import sys; d = r"C:\Program Files\ArcGIS\Pro\Resources\ArcToolbox\Scripts"; sys.path.append(d)
+import os; e = "FOR_DISABLE_CONSOLE_CTRL_HANDLER"; os.environ[e] = '1' if (not e in os.environ) else ""

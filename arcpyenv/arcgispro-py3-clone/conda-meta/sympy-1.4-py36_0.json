@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "depends": [
+    "fastcache",
+    "mpmath >=0.19",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/sympy-1.4-py3.6.egg",
+    "Lib/site-packages/sympy.pth",
+    "Scripts/isympy-script.py",
+    "Scripts/isympy.exe"
+  ],
+  "fn": "sympy-1.4-py36_0.tar.bz2",
+  "has_prefix": false,
+  "license": "3-clause BSD",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\sympy-1.4-py36_0",
+    "type": 1
+  },
+  "md5": "f6d42d90bcc29ba0c9002437e5387323",
+  "name": "sympy",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "esri",
+  "size": 5223015,
+  "subdir": "win-64",
+  "timestamp": 1566023138044,
+  "url": "https://conda.anaconda.org/esri/win-64/sympy-1.4-py36_0.tar.bz2",
+  "version": "1.4",
+  "with_features_depends": {}
+}

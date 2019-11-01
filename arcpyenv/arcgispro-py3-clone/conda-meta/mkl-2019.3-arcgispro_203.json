@@ -1,0 +1,46 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "arcgispro_203",
+  "build_number": 203,
+  "channel": null,
+  "depends": [
+    "icc_rt",
+    "intel-openmp",
+    "vs2015_runtime"
+  ],
+  "features": "arcgispro",
+  "files": [
+    "Library/bin/1033/mkl_msg.dll",
+    "Library/bin/libimalloc.dll",
+    "Library/bin/mkl_avx.dll",
+    "Library/bin/mkl_avx2.dll",
+    "Library/bin/mkl_avx512.dll",
+    "Library/bin/mkl_core.dll",
+    "Library/bin/mkl_intel_thread.dll",
+    "Library/bin/mkl_mc.dll",
+    "Library/bin/mkl_mc3.dll",
+    "Library/bin/mkl_rt.dll",
+    "Library/bin/mkl_sequential.dll",
+    "Library/bin/mkl_vml_def.dll"
+  ],
+  "fn": "mkl-2019.3-arcgispro_203.tar.bz2",
+  "license": "Intel Simplified Software License",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\mkl-2019.3-arcgispro_203",
+    "type": 1
+  },
+  "md5": null,
+  "name": "mkl",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "win-64",
+  "timestamp": 1555042024916,
+  "url": "https://conda.anaconda.org/esri/win-64/mkl-2019.3-arcgispro_203.tar.bz2",
+  "version": "2019.3",
+  "with_features_depends": {}
+}

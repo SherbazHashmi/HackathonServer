@@ -1,0 +1,47 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36h3d5aa90_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/zip-safe",
+    "Lib/site-packages/wcwidth/__init__.py",
+    "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/table_wide.py",
+    "Lib/site-packages/wcwidth/table_zero.py",
+    "Lib/site-packages/wcwidth/tests/__init__.py",
+    "Lib/site-packages/wcwidth/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/tests/__pycache__/test_core.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/tests/test_core.py",
+    "Lib/site-packages/wcwidth/wcwidth.py"
+  ],
+  "fn": "wcwidth-0.1.7-py36h3d5aa90_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\wcwidth-0.1.7-py36h3d5aa90_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "wcwidth",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1506014831779,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/wcwidth-0.1.7-py36h3d5aa90_0.tar.bz2",
+  "version": "0.1.7",
+  "with_features_depends": {}
+}

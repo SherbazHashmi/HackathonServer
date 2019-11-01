@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/win_inet_pton.cpython-36.pyc",
+    "Lib/site-packages/win_inet_pton-1.1.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/win_inet_pton-1.1.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/win_inet_pton-1.1.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/win_inet_pton-1.1.0-py3.6.egg-info/installed-files.txt",
+    "Lib/site-packages/win_inet_pton-1.1.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/win_inet_pton.py"
+  ],
+  "fn": "win_inet_pton-1.1.0-py36_0.tar.bz2",
+  "license": "PUBLIC-DOMAIN",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\win_inet_pton-1.1.0-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "win_inet_pton",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1551150041239,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/win_inet_pton-1.1.0-py36_0.tar.bz2",
+  "version": "1.1.0",
+  "with_features_depends": {}
+}

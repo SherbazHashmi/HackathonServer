@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/pandocfilters.cpython-36.pyc",
+    "Lib/site-packages/pandocfilters-1.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/pandocfilters-1.4.2.dist-info/METADATA",
+    "Lib/site-packages/pandocfilters-1.4.2.dist-info/RECORD",
+    "Lib/site-packages/pandocfilters-1.4.2.dist-info/WHEEL",
+    "Lib/site-packages/pandocfilters-1.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/pandocfilters.py"
+  ],
+  "fn": "pandocfilters-1.4.2-py36_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\pandocfilters-1.4.2-py36_1",
+    "type": 1
+  },
+  "md5": null,
+  "name": "pandocfilters",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1531667401545,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/pandocfilters-1.4.2-py36_1.tar.bz2",
+  "version": "1.4.2",
+  "with_features_depends": {}
+}

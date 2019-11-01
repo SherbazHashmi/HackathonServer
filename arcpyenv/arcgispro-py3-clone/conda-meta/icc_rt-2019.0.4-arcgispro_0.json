@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "arcgispro_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "depends": [],
+  "features": "arcgispro",
+  "files": [
+    "Library/bin/libifcoremd.dll",
+    "Library/bin/libifcorert.dll",
+    "Library/bin/libifportmd.dll",
+    "Library/bin/libmmd.dll"
+  ],
+  "fn": "icc_rt-2019.0.4-arcgispro_0.tar.bz2",
+  "has_prefix": false,
+  "license": "Intel Simplified Software License",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\icc_rt-2019.0.4-arcgispro_0",
+    "type": 1
+  },
+  "md5": "5bc5a1200002b8063a1a7abb3434cec9",
+  "name": "icc_rt",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "esri",
+  "size": 5692542,
+  "subdir": "win-64",
+  "timestamp": 1566019372807,
+  "url": "https://conda.anaconda.org/esri/win-64/icc_rt-2019.0.4-arcgispro_0.tar.bz2",
+  "version": "2019.0.4",
+  "with_features_depends": {}
+}

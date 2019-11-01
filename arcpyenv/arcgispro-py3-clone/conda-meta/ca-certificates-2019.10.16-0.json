@@ -1,0 +1,31 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [],
+  "files": [
+    "Library/ssl/cacert.pem",
+    "Library/ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2019.10.16-0.tar.bz2",
+  "license": "MPL 2.0",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\ca-certificates-2019.10.16-0",
+    "type": 1
+  },
+  "md5": "84d0645bb879905cb210d7492238cbc4",
+  "name": "ca-certificates",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 167018,
+  "subdir": "win-64",
+  "timestamp": 1571667853018,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2019.10.16-0.tar.bz2",
+  "version": "2019.10.16",
+  "with_features_depends": {}
+}

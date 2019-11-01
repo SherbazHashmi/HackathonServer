@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_2",
+  "build_number": 2,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/simplegeneric.cpython-36.pyc",
+    "Lib/site-packages/simplegeneric-0.8.1-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/simplegeneric-0.8.1-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/simplegeneric-0.8.1-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/simplegeneric-0.8.1-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/simplegeneric.py"
+  ],
+  "fn": "simplegeneric-0.8.1-py36_2.tar.bz2",
+  "license": "Zope Public",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\simplegeneric-0.8.1-py36_2",
+    "type": 1
+  },
+  "md5": null,
+  "name": "simplegeneric",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1518031111553,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/simplegeneric-0.8.1-py36_2.tar.bz2",
+  "version": "0.8.1",
+  "with_features_depends": {}
+}

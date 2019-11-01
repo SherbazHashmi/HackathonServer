@@ -1,0 +1,13 @@
+prefix=C:/Hackathon/server/arcpyenv/arcgispro-py3-clone/Library
+exec_prefix=C:/Hackathon/server/arcpyenv/arcgispro-py3-clone/Library
+libdir=C:/Hackathon/server/arcpyenv/arcgispro-py3-clone/Library/lib
+sharedlibdir=C:/Hackathon/server/arcpyenv/arcgispro-py3-clone/Library/lib
+includedir=C:/Hackathon/server/arcpyenv/arcgispro-py3-clone/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

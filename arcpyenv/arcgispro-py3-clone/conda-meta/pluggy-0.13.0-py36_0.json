@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "importlib_metadata >=0.12",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/pluggy-0.13.0.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-0.13.0.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-0.13.0.dist-info/METADATA",
+    "Lib/site-packages/pluggy-0.13.0.dist-info/RECORD",
+    "Lib/site-packages/pluggy-0.13.0.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-0.13.0.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-36.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-36.pyc",
+    "Lib/site-packages/pluggy/__pycache__/callers.cpython-36.pyc",
+    "Lib/site-packages/pluggy/__pycache__/hooks.cpython-36.pyc",
+    "Lib/site-packages/pluggy/__pycache__/manager.cpython-36.pyc",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    "Lib/site-packages/pluggy/callers.py",
+    "Lib/site-packages/pluggy/hooks.py",
+    "Lib/site-packages/pluggy/manager.py"
+  ],
+  "fn": "pluggy-0.13.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\pluggy-0.13.0-py36_0",
+    "type": 1
+  },
+  "md5": "647ecd6fc39aa4cf1ca4009a1715ce17",
+  "name": "pluggy",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 32499,
+  "subdir": "win-64",
+  "timestamp": 1569265447257,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-0.13.0-py36_0.tar.bz2",
+  "version": "0.13.0",
+  "with_features_depends": {}
+}

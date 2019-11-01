@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36ha925a31_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "vc >=14.1,<15.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/kiwisolver-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/kiwisolver-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/kiwisolver-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/kiwisolver-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/kiwisolver-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/kiwisolver.cp36-win_amd64.pyd"
+  ],
+  "fn": "kiwisolver-1.1.0-py36ha925a31_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\kiwisolver-1.1.0-py36ha925a31_0",
+    "type": 1
+  },
+  "md5": "aadffe2a64dd4a6f6316a617c3603610",
+  "name": "kiwisolver",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 60396,
+  "subdir": "win-64",
+  "timestamp": 1556560955238,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/kiwisolver-1.1.0-py36ha925a31_0.tar.bz2",
+  "version": "1.1.0",
+  "with_features_depends": {}
+}

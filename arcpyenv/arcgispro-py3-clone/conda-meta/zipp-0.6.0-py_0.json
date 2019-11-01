@@ -1,0 +1,41 @@
+{
+  "arch": null,
+  "auth": null,
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "depends": [
+    "more-itertools",
+    "python"
+  ],
+  "files": [
+    "Lib/site-packages/zipp-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/zipp-0.6.0.dist-info/LICENSE",
+    "Lib/site-packages/zipp-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/zipp-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/zipp-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/zipp-0.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/zipp.py",
+    "Lib/site-packages/__pycache__/zipp.cpython-36.pyc"
+  ],
+  "fn": "zipp-0.6.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\zipp-0.6.0-py_0",
+    "type": 1
+  },
+  "md5": "13d1abc9847d0f0fc9dde2f98729eb97",
+  "name": "zipp",
+  "noarch": "python",
+  "platform": null,
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 8874,
+  "subdir": "noarch",
+  "timestamp": 1569428262885,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/zipp-0.6.0-py_0.tar.bz2",
+  "version": "0.6.0",
+  "with_features_depends": {}
+}

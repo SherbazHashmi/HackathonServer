@@ -1,0 +1,52 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "vc >=14.1,<15.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/fastcache-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/fastcache-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/fastcache-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/fastcache-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/fastcache-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/fastcache-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/fastcache/__init__.py",
+    "Lib/site-packages/fastcache/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/fastcache/__pycache__/benchmark.cpython-36.pyc",
+    "Lib/site-packages/fastcache/_lrucache.cp36-win_amd64.pyd",
+    "Lib/site-packages/fastcache/benchmark.py",
+    "Lib/site-packages/fastcache/tests/__init__.py",
+    "Lib/site-packages/fastcache/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/fastcache/tests/__pycache__/test_clrucache.cpython-36.pyc",
+    "Lib/site-packages/fastcache/tests/__pycache__/test_functools.cpython-36.pyc",
+    "Lib/site-packages/fastcache/tests/__pycache__/test_thread.cpython-36.pyc",
+    "Lib/site-packages/fastcache/tests/test_clrucache.py",
+    "Lib/site-packages/fastcache/tests/test_functools.py",
+    "Lib/site-packages/fastcache/tests/test_thread.py"
+  ],
+  "fn": "fastcache-1.1.0-py36he774522_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\fastcache-1.1.0-py36he774522_0",
+    "type": 1
+  },
+  "md5": "2acfd242d5706aef2db39cb49e5df6c0",
+  "name": "fastcache",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 33391,
+  "subdir": "win-64",
+  "timestamp": 1557506843029,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fastcache-1.1.0-py36he774522_0.tar.bz2",
+  "version": "1.1.0",
+  "with_features_depends": {}
+}

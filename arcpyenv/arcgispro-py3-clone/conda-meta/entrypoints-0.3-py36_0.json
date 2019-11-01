@@ -1,0 +1,34 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/entrypoints.cpython-36.pyc",
+    "Lib/site-packages/entrypoints-0.3-py3.6.egg-info",
+    "Lib/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py36_0.tar.bz2",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\entrypoints-0.3-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "entrypoints",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1547905218658,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/entrypoints-0.3-py36_0.tar.bz2",
+  "version": "0.3",
+  "with_features_depends": {}
+}

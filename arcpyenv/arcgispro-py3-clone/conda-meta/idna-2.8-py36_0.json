@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": null,
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/idna-2.8-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/idna-2.8-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/idna-2.8-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/idna-2.8-py3.6.egg-info/installed-files.txt",
+    "Lib/site-packages/idna-2.8-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/idna/__init__.py",
+    "Lib/site-packages/idna/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/codec.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/compat.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/core.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/idnadata.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/intranges.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/package_data.cpython-36.pyc",
+    "Lib/site-packages/idna/__pycache__/uts46data.cpython-36.pyc",
+    "Lib/site-packages/idna/codec.py",
+    "Lib/site-packages/idna/compat.py",
+    "Lib/site-packages/idna/core.py",
+    "Lib/site-packages/idna/idnadata.py",
+    "Lib/site-packages/idna/intranges.py",
+    "Lib/site-packages/idna/package_data.py",
+    "Lib/site-packages/idna/uts46data.py"
+  ],
+  "fn": "idna-2.8-py36_0.tar.bz2",
+  "license": "BSD Like",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\idna-2.8-py36_0",
+    "type": 1
+  },
+  "md5": null,
+  "name": "idna",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "subdir": "win-64",
+  "timestamp": 1545083497623,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/idna-2.8-py36_0.tar.bz2",
+  "version": "2.8",
+  "with_features_depends": {}
+}

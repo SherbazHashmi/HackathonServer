@@ -1,0 +1,50 @@
+{
+  "arch": null,
+  "auth": null,
+  "build": "py_2",
+  "build_number": 2,
+  "channel": null,
+  "depends": [
+    "python"
+  ],
+  "files": [
+    "Scripts/2to3",
+    "Scripts/idle",
+    "Scripts/pydoc",
+    "Lib/site-packages/PyPDF2/__init__.py",
+    "Lib/site-packages/PyPDF2/_version.py",
+    "Lib/site-packages/PyPDF2/filters.py",
+    "Lib/site-packages/PyPDF2/generic.py",
+    "Lib/site-packages/PyPDF2/merger.py",
+    "Lib/site-packages/PyPDF2/pagerange.py",
+    "Lib/site-packages/PyPDF2/pdf.py",
+    "Lib/site-packages/PyPDF2/utils.py",
+    "Lib/site-packages/PyPDF2/xmp.py",
+    "Lib/site-packages/PyPDF2/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/_version.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/filters.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/generic.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/merger.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/pagerange.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/pdf.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/utils.cpython-36.pyc",
+    "Lib/site-packages/PyPDF2/__pycache__/xmp.cpython-36.pyc"
+  ],
+  "fn": "pypdf2-1.26.0-py_2.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\pypdf2-1.26.0-py_2",
+    "type": 1
+  },
+  "md5": null,
+  "name": "pypdf2",
+  "noarch": "python",
+  "platform": null,
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "esri",
+  "subdir": "noarch",
+  "url": "https://conda.anaconda.org/esri/noarch/pypdf2-1.26.0-py_2.tar.bz2",
+  "version": "1.26.0",
+  "with_features_depends": {}
+}

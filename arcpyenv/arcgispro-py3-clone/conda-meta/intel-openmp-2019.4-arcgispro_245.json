@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "arcgispro_245",
+  "build_number": 245,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "depends": [],
+  "features": "arcgispro",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libiompstubs5md.dll"
+  ],
+  "fn": "intel-openmp-2019.4-arcgispro_245.tar.bz2",
+  "has_prefix": false,
+  "license": "Intel Simplified Software License",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\intel-openmp-2019.4-arcgispro_245",
+    "type": 1
+  },
+  "md5": "11f7672788d355f684112c22fde7a2d0",
+  "name": "intel-openmp",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "esri",
+  "size": 751618,
+  "subdir": "win-64",
+  "timestamp": 1566234406485,
+  "url": "https://conda.anaconda.org/esri/win-64/intel-openmp-2019.4-arcgispro_245.tar.bz2",
+  "version": "2019.4",
+  "with_features_depends": {}
+}
