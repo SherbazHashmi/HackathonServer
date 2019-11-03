@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36ha925a31_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "vc >=14.1,<15.0a0"
+  ],
+  "files": [
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/LICENSE.txt",
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-4.0.27.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp36-win_amd64.pyd"
+  ],
+  "fn": "pyodbc-4.0.27-py36ha925a31_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\sherb\\AppData\\Local\\ESRI\\conda\\pkgs\\pyodbc-4.0.27-py36ha925a31_0",
+    "type": 1
+  },
+  "md5": "d7dde32ab8c066265666f37cc009a938",
+  "name": "pyodbc",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 1,
+  "schannel": "defaults",
+  "size": 71750,
+  "subdir": "win-64",
+  "timestamp": 1565964750372,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyodbc-4.0.27-py36ha925a31_0.tar.bz2",
+  "version": "4.0.27",
+  "with_features_depends": {}
+}

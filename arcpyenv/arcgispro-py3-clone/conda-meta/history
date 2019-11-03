@@ -252,3 +252,11 @@
 # cmd: C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\conda.exe install -p C:\Hackathon\server\arcpyenv\arcgispro-py3-clone flask-cors=3.0.8 --json --no-shortcuts
 +defaults::flask-cors-3.0.8-py_0
 # install specs: flask-cors 3.0.8*
+==> 2019-11-02 14:38:06 <==
+# cmd: C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\conda.exe install -p C:\Hackathon\server\arcpyenv\arcgispro-py3-clone pyodbc=4.0.27 --json --no-shortcuts
+-defaults::colorama-0.4.1-py36_0
+-defaults::py-1.8.0-py36_0
++defaults::colorama-0.4.1-py_0
++defaults::py-1.8.0-py_0
++defaults::pyodbc-4.0.27-py36ha925a31_0
+# install specs: pyodbc 4.0.27*
